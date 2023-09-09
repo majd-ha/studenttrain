@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.inputfield {
+  @apply border border-gray-500 outline-none rounded-lg indent-1 w-[80%] mx-auto;
+}
+
+.labelfield {
+  @apply w-[80%] mx-auto;
+}

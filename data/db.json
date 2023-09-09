@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "greeting majd",
+      "author": "tharaa",
+      "body": "hello there , this is my first blog guys"
+    },
+    {
+      "id": 2,
+      "title": "songs",
+      "author": "majd",
+      "body": "i think elbakhet is good song"
+    },
+    {
+      "title": "lovely",
+      "body": "hi a new to this community",
+      "author": "tharaa",
+      "id": 6
+    }
+  ]
+}
